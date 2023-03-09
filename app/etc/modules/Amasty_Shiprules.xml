@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--
+/**
+* @author Amasty Team
+* @copyright Copyright (c) 2022 Amasty (https://www.amasty.com)
+* @package Shipping Rules
+*/
+-->
+<config>
+    <modules>
+        <Amasty_Shiprules>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Amasty_Shiprules>
+    </modules>
+</config>

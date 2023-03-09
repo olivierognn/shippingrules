@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Amasty_Commonrules>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Amasty_Commonrules>
+    </modules>
+</config>
